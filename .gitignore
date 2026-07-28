@@ -9,7 +9,6 @@ fp-info-cache
 *-cache.lib
 *~
 *.tmp
-*.zip
 
 # 3D models (optional, can be large)
 *.stp
@@ -22,3 +21,10 @@ gerber/
 *.drl
 *.pos
 *.rpt
+
+# KiCad backup files
+*-backup-*.kicad_pcb
+*-backup-*.kicad_sch
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*~
