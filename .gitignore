@@ -9,6 +9,7 @@ fp-info-cache
 *-cache.lib
 *~
 *.tmp
+*.zip
 
 # 3D models (optional, can be large)
 *.stp
